@@ -15,6 +15,7 @@ Under the ‘AatmaNirbhar Bharat Abhiyan’ initiated by our Hon’ble Prime Min
 <li>When a token has circumnavigated the board, it proceeds up to the winning house.</li>
 <li>The first person to move all 2 tokens into the winning house wins.</li>
 While progressing through the game, players discover a wealth of valuable information regarding India's constitutions.</p>
+<li>Organized by Ministry of Education’s Innovation Cell with support from All India Council for Technical Education, Ministry of Women and Child Development, Ministry of Commerce and Industry, Ministry of MSME, Ministry of Textiles and Ministry of Information and Broadcasting.</li>
 
 
 
